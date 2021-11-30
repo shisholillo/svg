@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>5-Icons/Process Management/z-Features/REST API</title>
+    <desc>Created with Sketch.</desc>
+    <g id="5-Icons/Process-Management/z-Features/REST-API" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="REST-API">
+            <path d="M33.2964845,16.4251672 C37.2878281,20.2022781 38.9322948,26.8181861 37.4778921,32.6707201 C36.0234894,38.5312059 31.4784811,43.6283178 25.7930889,46.1569941 C20.0994331,48.6856705 13.2653933,48.6379596 8.59643023,45.8548253 C3.92746715,43.0796427 1.42358076,37.5690366 0.448469888,32.1140932 C-0.534904637,26.651198 0.0104963601,21.2360137 2.96888358,17.6895054 C5.91900716,14.1350452 11.282117,12.4492609 17.1327822,12.0755257 C22.9751838,11.7017905 29.3051408,12.6480562 33.2964845,16.4251672 Z" id="Path-Copy-6" fill="#FFE5B2"></path>
+            <path d="M39.3333333,29.6666667 C43.0666667,29.3333333 46,26.1333333 46,22.3333333 C46,18.4666667 43.0666667,15.3333333 39.2666667,15 C38.6,8.26666667 32.9333333,3 26,3 C20,3 14.9333333,7 13.2666667,12.4666667 C9.13333333,13.1333333 6,16.6666667 6,21 C6,25.5333333 9.53333333,29.3333333 14,29.6666667 L39.3333333,29.6666667 Z" id="Path" stroke="#CC4E00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M21.4940082,17.7448975 L31.1698976,8.27058917" id="Path" stroke="#CC4E00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(26.331953, 13.007743) rotate(44.000000) translate(-26.331953, -13.007743) "></path>
+            <polyline id="Path" stroke="#CC4E00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(30.194429, 12.954580) rotate(44.000000) translate(-30.194429, -12.954580) " points="32.5596461 15.319797 32.5596461 10.5893623 27.8292113 10.5893623"></polyline>
+            <path d="M21.8487027,26.0231583 L31.524592,16.54885" id="Path" stroke="#CC4E00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(26.686647, 21.286004) scale(-1, 1) rotate(44.000000) translate(-26.686647, -21.286004) "></path>
+            <polyline id="Path" stroke="#CC4E00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.824172, 21.232841) scale(-1, 1) rotate(44.000000) translate(-22.824172, -21.232841) " points="25.1893889 23.5980579 25.1893889 18.8676231 20.4589542 18.8676231"></polyline>
+        </g>
+    </g>
+</svg>
